@@ -5,3 +5,9 @@ Solución de Pruebas técnica F2X - Lider de desarrollo técnico
 -Rol: Lider de desarrollo técnico
 -Fecha de entrega : 1 enero de 2026
 -Prueba realizada por: Daniel Ramírez Bedoya
+
+- Prueba 
+- Compañia: 
+- Rol: 
+- Fecha: 
+- Presenta: 
